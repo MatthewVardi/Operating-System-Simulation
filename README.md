@@ -1,10 +1,13 @@
+<strong>Operating Systems Simulation in C++</strong>
+
+Features:
+ 1. Multi-level Feedback Queue
+ 2. I/O Disk Management
+ 3. Memory Management 
 
 Class: Spring 2018, Operating Systems Section 3
 
 Professor: Professor Shostak
-
-Description: Simulating an Operating System With a Multi-level Feedback Queue, I/O Disks and Memory Management in C++
-
 
 To compile on terminal type:
  g++ -std=c++11 OS.cpp
@@ -14,6 +17,7 @@ To run the executable type:
  ./a.out
 
 List of commands:
+
        A - Create a new process with its own process block
 
        t - Terminate the process that currently is using the CPU.
