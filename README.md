@@ -1,4 +1,6 @@
-<strong>Operating Systems Simulation in C++</strong>
+<p align="center">
+  <h1> Operating Systems Simulation in C++ </h1>
+</p>
 
 Features:
  1. Multi-level Feedback Queue
